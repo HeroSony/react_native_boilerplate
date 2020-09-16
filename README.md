@@ -42,3 +42,4 @@ react-native-safe-area-context
 @react-navigation/bottom-tabs
 @react-navigation/drawer
 ```
+Add above packages to `package.json` and run `yarn install`
