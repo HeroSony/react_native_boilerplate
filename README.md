@@ -1,4 +1,14 @@
 ## React Native Boilerplate
+
+### Create new project (0.63)
+
+Run follow command to init new project
+```
+npx react-native init MyApp --template react-native-template-typescript
+```
+Copy `src` folder to your root project
+From `index.js` import `src/App.tsx` as AppRegistry
+
 ### Packages
 ```
 @react-native-community/async-storage
