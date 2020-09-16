@@ -6,8 +6,7 @@ Run follow command to init new project
 ```
 npx react-native init MyApp --template react-native-template-typescript
 ```
-Copy `src` folder to your root project
-From `index.js` import `src/App.tsx` as AppRegistry
+Copy `src` folder to your root project, and from `index.js` import `src/App.tsx` as AppRegistry
 
 ### Packages
 ```
